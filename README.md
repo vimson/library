@@ -1,7 +1,8 @@
 
 
-CakePHP Revision Behavior
+My Libraries
 =====================================
+Can use as a reference or future use.
 
- - Revision behavior for CakePHP with DynamoDB as Datastore  
-
+1. Revision behavior using DynamoDB as storage
+2. CahngeLog behavior using DynamoDB as storage

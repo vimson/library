@@ -15,4 +15,7 @@ mysql> SELECT * FROM myindex WHERE MATCH(‘@(title,content) find me fast’);
 
 ```
 
+
+References
+========
 http://www.slideshare.net/AdrianNuta1/advanced-fulltext-search-with-sphinx-30757993?next_slideshow=1
