@@ -42,3 +42,6 @@ App for hearing: Audible
 [Migrate from PHP to node](https://medium.com/get-outside/migrating-from-php-to-node-js-522768ac482a) - https://medium.com/get-outside/migrating-from-php-to-node-js-522768ac482a
 
 [Free coding Books](http://sixrevisions.com/lists/free-books-code/) - http://sixrevisions.com/lists/free-books-code/
+
+[15 Free Books for People Who Code](http://sixrevisions.com/lists/free-books-code/) - http://sixrevisions.com/lists/free-books-code/
+
