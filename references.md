@@ -45,3 +45,19 @@ App for hearing: Audible
 
 [15 Free Books for People Who Code](http://sixrevisions.com/lists/free-books-code/) - http://sixrevisions.com/lists/free-books-code/
 
+
+### 15 Free Books for People Who Code
+* How to Design Programs - http://htdp.org/
+* 97 Things Every Programmer Should Know - http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book
+* Foundations of Computer Science - http://infolab.stanford.edu/~ullman/focs.html
+* Introduction to Computing - http://www.computingbook.org/
+* The Codeless Code - http://thecodelesscode.com/contents
+* Producing Open Source Software - http://producingoss.com/
+* Patterns of Software - http://dreamsongs.com/Files/PatternsOfSoftware.pdf
+* The Architecture of Open Source Applications - http://www.aosabook.org/en/index.html
+* Foundations of Programming  - http://openmymind.net/FoundationsOfProgramming.pdf
+* The Little Introduction To Programming - http://codingintro.com/
+* How to Think Like a Computer Scientist - http://openbookproject.net/thinkcs/python/english3e/
+* Essential Coding Theory - http://www.cse.buffalo.edu/~atri/courses/coding-theory/book/
+* Building Skills in Programming - http://www.itmaybeahack.com/homepage/books/nonprogrammer.html
+
