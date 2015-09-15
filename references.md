@@ -1,6 +1,8 @@
 
 [Online Markdown Editor](http://dillinger.io/) - http://dillinger.io/
 
+[CakePHP Online Inflector](http://inflector.cakephp.org) - http://inflector.cakephp.org
+
 [Scrapping website](http://import.io) - http://import.io
 
 [PHP coding standard](http://www.php-fig.org/psr/psr-4/) - http://www.php-fig.org/psr/psr-4/

@@ -4,6 +4,8 @@ Sphinx Reusable Codes
 =====================
 
  - Code which we can use while developing full text search engines
+
+ - RT Index memory concern http://www.ivinco.com/blog/sphinx-in-action-good-and-bad-in-sphinx-real-time-indexes/
 	
 
 SphinxSQL
